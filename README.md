@@ -8,6 +8,10 @@
   <tr>
     <td width="60%" valign="top">
       <img src="https://github.com/user-attachments/assets/cffe5691-b504-43e6-9fea-75c4c21b18f4" width="100%"/>
+ <table align="center" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <img src="https://github.com/user-attachments/assets/cffe5691-b504-43e6-9fea-75c4c21b18f4" width="100%"/>
     </td>
 
     <td width="40%" valign="top">
@@ -52,9 +56,7 @@
     <td>
       <h2>── .✦ Introduction</h2>
       <p>
-        Write your introduction here. You can talk about your hobbies,
-        favorite fandoms, animation projects, drawing goals, or anything
-        you want visitors to know about you.
+        Write your introduction here.
       </p>
     </td>
   </tr>
