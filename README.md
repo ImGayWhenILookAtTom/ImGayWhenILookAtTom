@@ -13,7 +13,11 @@
     <td width="60%" valign="top">
       <img src="https://github.com/user-attachments/assets/cffe5691-b504-43e6-9fea-75c4c21b18f4" width="100%"/>
     </td>
-
+<table align="center" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <img src="https://github.com/user-attachments/assets/cffe5691-b504-43e6-9fea-75c4c21b18f4" width="100%">
+    </td>
     <td width="40%" valign="top">
       <h2>── .✦ About me</h2>
       <p>
@@ -23,43 +27,6 @@
     </td>
   </tr>
 </table>
-
-<br>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="45%" valign="top">
-      <img src="https://github.com/user-attachments/assets/cffe5691-b504-43e6-9fea-75c4c21b18f4" width="100%"/>
-    </td>
-
-    <td width="55%" valign="top">
-      <h3>Gallery</h3>
-
-      <table width="100%">
-        <tr>
-          <td><img src="https://github.com/user-attachments/assets/76b28516-dfc3-46a1-ab76-dc12ce51cde2" width="100%"/></td>
-          <td><img src="https://github.com/user-attachments/assets/418c1449-227e-443d-b5af-d6e039ab0d8d" width="100%"/></td>
-        </tr>
-        <tr>
-          <td><img src="https://github.com/user-attachments/assets/76b28516-dfc3-46a1-ab76-dc12ce51cde2" width="100%"/></td>
-          <td><img src="https://github.com/user-attachments/assets/418c1449-227e-443d-b5af-d6e039ab0d8d" width="100%"/></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<table align="center" width="100%">
-  <tr>
-    <td>
-      <h2>── .✦ Introduction</h2>
-      <p>
-        Write your introduction here.
-      </p>
-    </td>
-  </tr>
-</table>
+  
 
 <img width="2048" height="740" alt="tumblr_987d03487e43305e05367ea6668b9194_56e91cdd_2048" src="https://github.com/user-attachments/assets/2c940645-b51d-4336-88af-4d0929a0e4e0" />
