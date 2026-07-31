@@ -4,5 +4,5 @@
 <img width="150" height="20" alt="1825451pau7fgs02p" src="https://github.com/user-attachments/assets/418c1449-227e-443d-b5af-d6e039ab0d8d" />
 <img width="150" height="20" alt="sweetdevil" src="https://github.com/user-attachments/assets/b803c6dc-f9f9-4d01-b21d-3c2c8441a4e7" />
 <img width="2048" height="740" alt="tumblr_d1ff6f4827bb76300ac59ac219a427ba_7e857a87_2048" src="https://github.com/user-attachments/assets/cde5166a-6c81-4c8e-9680-70ff32a67ece" />
-<img width="303" height="238" alt="HNL-e_KWkAAJb9l" src="https://github.com/user-attachments/assets/8123f880-f7c1-4f26-9110-a9090ab02706" />
+
 <img width="2048" height="740" alt="tumblr_987d03487e43305e05367ea6668b9194_56e91cdd_2048" src="https://github.com/user-attachments/assets/2c940645-b51d-4336-88af-4d0929a0e4e0" />
