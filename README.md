@@ -5,28 +5,5 @@
 <img width="150" height="20" alt="sweetdevil" src="https://github.com/user-attachments/assets/b803c6dc-f9f9-4d01-b21d-3c2c8441a4e7" />
 <img width="2048" height="740" alt="tumblr_d1ff6f4827bb76300ac59ac219a427ba_7e857a87_2048" src="https://github.com/user-attachments/assets/cde5166a-6c81-4c8e-9680-70ff32a67ece" />
 <table align="center" width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <img src="https://github.com/user-attachments/assets/cffe5691-b504-43e6-9fea-75c4c21b18f4" width="100%"/>
- <table align="center" width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <img src="https://github.com/user-attachments/assets/cffe5691-b504-43e6-9fea-75c4c21b18f4" width="100%"/>
-    </td>
-<table align="center" width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <img src="https://github.com/user-attachments/assets/cffe5691-b504-43e6-9fea-75c4c21b18f4" width="100%">
-    </td>
-    <td width="40%" valign="top">
-      <h2>── .✦ About me</h2>
-      <p>
-        Hi! I like drawing, animation, Eddsworld, and Countryhumans.<br>
-        I'm currently learning animation and improving my art skills.
-      </p>
-    </td>
-  </tr>
-</table>
-  
 
 <img width="2048" height="740" alt="tumblr_987d03487e43305e05367ea6668b9194_56e91cdd_2048" src="https://github.com/user-attachments/assets/2c940645-b51d-4336-88af-4d0929a0e4e0" />
