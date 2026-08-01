@@ -28,7 +28,8 @@
   <tr>
     <td valign="top">
       <h3>♪ Now Playing</h3>
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4994f445-f68f-44a7-9204-b961d3268180" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/6f25995c-831e-4275-9700-1bb6c9f835e9" />
+
 
     </td>
     <td valign="top">
