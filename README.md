@@ -24,10 +24,12 @@
     </td>
   </tr>
 
+
   <tr>
     <td valign="top">
       <h3>♪ Now Playing</h3>
-      <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/532cef9d-0a68-4c73-a3d0-d601e4a60f86" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4994f445-f68f-44a7-9204-b961d3268180" />
+
     </td>
     <td valign="top">
      <img src="https://github.com/user-attachments/assets/578c5055-2003-42aa-9af8-2e1b7c9566eb" width="100%"/>
