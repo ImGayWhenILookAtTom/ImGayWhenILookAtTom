@@ -27,7 +27,8 @@
       <img src="LINK_KHUNG_NHAC" width="100%">
     </td>
     <td valign="top">
-      <img src="LINK_ANH_DOC" width="100%">
+      <img src="<img width="1035" height="1200" alt="image" src="https://github.com/user-attachments/assets/3e6b1b79-2d86-46a5-8399-a73c2098bec4" />
+" width="100%">
     </td>
   </tr>
 
