@@ -41,7 +41,11 @@ Name's Tord. Yes, the red one. No, I'm not going to explain myself for the hundr
     <td colspan="2">
       <h2>── .✦ Introduction</h2>
       <p>
-     WIPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+     I'm not exactly the friendliest person you'll meet. I have a bad habit of making fun of people before I remember that social interaction is supposed to be pleasant. Don't take it personally. Actually, do. It's funnier that way.<br>
+
+I'm sarcastic, stubborn, competitive, and just self-aware enough to admit that I'm sarcastic, stubborn, and competitive. I like people who can keep up with banter. If you cry because I called you a loser after beating you once, that's honestly a skill issue. <br>
+
+I don't do small talk very well. Ask me about art, old games, military aesthetics, gothic nonsense, weird music, or why every project somehow ends up covered in red lighting and questionable decisions. Those conversations tend to last a while. <br>
       </p>
     </td>
   </tr>
