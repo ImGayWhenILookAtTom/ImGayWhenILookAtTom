@@ -19,9 +19,7 @@
     <td width="40%" valign="top">
       <h2>── .✦ About me</h2>
       <p>
-        Write your introduction here.<br>
-        You can talk about yourself, your hobbies,
-        art, animation, or anything you like.
+     WIPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
       </p>
     </td>
   </tr>
@@ -40,10 +38,7 @@
     <td colspan="2">
       <h2>── .✦ Introduction</h2>
       <p>
-        This is the large introduction section.
-        You can write a longer paragraph here,
-        add your interests, fandoms, projects,
-        or anything you want people to know.
+     WIPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
       </p>
     </td>
   </tr>
