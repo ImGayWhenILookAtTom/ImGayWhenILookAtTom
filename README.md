@@ -22,9 +22,6 @@
    If you're here because you got lost, congratulations. You've made a terrible decision already.<br>
 
 Name's Tord. Yes, the red one. No, I'm not going to explain myself for the hundredth time. I draw, collect things that probably shouldn't be collected, and spend an unreasonable amount of time making everything look dramatic. If something can be black and red, I'll make it black and red. <br>
-
-      </p>
-    </td>
   </tr>
 
 
