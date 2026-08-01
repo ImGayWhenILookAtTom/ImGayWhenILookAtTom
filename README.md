@@ -44,9 +44,10 @@
 
 <p align="center">
   <a href="https://loveyouloveyourblood.atabook.org/">
-    <img src="https://github.com/user-attachments/assets/cffe5691-b504-43e6-9fea-75c4c21b18f4" width="180" alt="Guestbook">
+   <img width="342" height="126" alt="image" src="https://github.com/user-attachments/assets/7b52423c-ceee-4a20-9f15-b81c277f4b95" />
   </a>
 </p>
 
 <img width="2048" height="740" alt="tumblr_987d03487e43305e05367ea6668b9194_56e91cdd_2048" src="https://github.com/user-attachments/assets/2c940645-b51d-4336-88af-4d0929a0e4e0" />
+
 
