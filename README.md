@@ -54,24 +54,4 @@
 
 
 
-<table width="100%" style="background:#111111;border:1px solid #2a2a2a;border-radius:14px;padding:16px;">
-  <tr>
-    <td width="110">
-      <a href="https://open.spotify.com/track/089jl361OtZ6VpYvhgPiTS?si=7a9b0fd0f5a14a79">
-        <img src="https://github.com/user-attachments/assets/4e4458c2-4fae-48e6-a623-1549739a7c29" width="95" style="border-radius:10px;">
-      </a>
-    </td>
-    <td>
-      <b>🎵 Đang phát</b><br>
-      <b>And One</b><br>
-      <a href="https://open.spotify.com/track/089jl361OtZ6VpYvhgPiTS?si=7a9b0fd0f5a14a79">
-        Mở trên Spotify
-      </a>
-      <br><br>
-      ▮▮▮▮▮▮▯▯▯▯
-    </td>
-    <td align="right" width="40">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" width="26">
-    </td>
-  </tr>
-</table>
+
