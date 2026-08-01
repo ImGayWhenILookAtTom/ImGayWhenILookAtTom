@@ -12,7 +12,9 @@
 <table align="center" width="100%">
   <tr>
     <td width="60%" valign="top">
-      <img src="LINK_ANH_LON" width="100%">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/679fd0bb-843a-4b5c-a130-38fd4bf4c2ef" width="180" alt="Tord Larsson"/>
+</p>
     </td>
     <td width="40%" valign="top">
       <h2>── .✦ About me</h2>
