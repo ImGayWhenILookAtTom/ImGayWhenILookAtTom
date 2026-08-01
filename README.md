@@ -5,8 +5,6 @@
 <img width="150" height="20" alt="sweetdevil" src="https://github.com/user-attachments/assets/b803c6dc-f9f9-4d01-b21d-3c2c8441a4e7" />
 <img width="2048" height="740" alt="tumblr_d1ff6f4827bb76300ac59ac219a427ba_7e857a87_2048" src="https://github.com/user-attachments/assets/cde5166a-6c81-4c8e-9680-70ff32a67ece" />
 <table align="center" width="100%">
-
-<table align="center" width="100%">
   <tr>
     <td width="60%" valign="top">
       <img src="LINK_ANH_LON" width="100%">
@@ -27,8 +25,7 @@
       <img src="LINK_KHUNG_NHAC" width="100%">
     </td>
     <td valign="top">
-      <img src="" alt="image" src="https://github.com/user-attachments/assets/3e6b1b79-2d86-46a5-8399-a73c2098bec4" />
-" width="100%">
+      <img src="LINK_ANH_DOC" width="100%">
     </td>
   </tr>
 
