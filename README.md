@@ -43,7 +43,7 @@ Name's Tord. Yes, the red one. No, I'm not going to explain myself for the hundr
     <td colspan="2">
       <h2>── .✦ Introduction</h2>
       <p>
-If you’re reading this, you either clicked the wrong profile or you’re looking for trouble. <br>
+        
 Either way, welcome. I draw things, animate things, break things, and occasionally finish the things I start. I spend way too much time making everything look darker than it needs to be. Red lighting fixes most problems. The other problems can usually be ignored. <br>
  I have a habit of teasing people before I remember that some of them have feelings. That sounds like a personal issue, though. If I make fun of you, congratulations, you’ve been acknowledged. <br>
 Tom gets the worst of it because it’s incredibly easy, and watching him get annoyed is one of the few free sources of entertainment left in the world. If he’s reading this, no you’re not getting an apology. I’m competitive in the dumbest ways possible. Lose a game? Rematch. Lose again? The game is obviously broken. Win once? I’ll bring it up for the next six months. That seems fair. <br>
