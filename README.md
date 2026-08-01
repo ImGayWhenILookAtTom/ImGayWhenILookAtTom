@@ -21,9 +21,7 @@
     <td width="40%" valign="top">
       <h2>── .✦ About me</h2>
       <p>
-   If you're here because you got lost, congratulations. You've made a terrible decision already.<br>
-
-Name's Tord. Yes, the red one. No, I'm not going to explain myself for the hundredth time. I draw, collect things that probably shouldn't be collected, and spend an unreasonable amount of time making everything look dramatic. If something can be black and red, I'll make it black and red. <br>
+Norwegian, ENTP, and a Scorpio, which probably explains more than I’m willing to admit. I go by he/him and I’m Pansexual. I’m usually sarcastic before I’m polite, competitive for absolutely no reason, and surprisingly committed to bad decisions. I disappear without warning, reply whenever I remember, and somehow still expect people to keep up. If I’m making fun of you, don’t panic — that’s usually a better sign than complete silence.
   </tr>
 
 
