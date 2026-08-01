@@ -27,7 +27,7 @@
 
   <tr>
     <td valign="top">
-      <h3>♪ Now Playing</h3>
+      <h3> This is my favorite song </h3>
 <img src="https://github.com/user-attachments/assets/6f25995c-831e-4275-9700-1bb6c9f835e9" width="700"/>
 
 
