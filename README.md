@@ -55,4 +55,5 @@
   </a>
 </p>
 
-<img width="2048" height="740" alt="tumblr_987d03487e43305e05367ea6668b9194_56e91cdd_2048" src="https://github.com/user-attachments/assets/2c940645-b51d-4336-88af-4d0929a0e4e0" />
+<img width="1045" height="330" alt="image" src="https://github.com/user-attachments/assets/a15bd46a-d172-4688-9ea3-3e6c14023ceb" />
+
