@@ -31,7 +31,7 @@
 <img src="https://github.com/user-attachments/assets/6f25995c-831e-4275-9700-1bb6c9f835e9" width="700"/>
 
 
-    </td>
+  </td>
     <td valign="top">
      <img src="https://github.com/user-attachments/assets/578c5055-2003-42aa-9af8-2e1b7c9566eb" width="100%"/>
     </td>
