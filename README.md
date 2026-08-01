@@ -14,6 +14,7 @@
     <td width="60%" valign="top">
 <p align="center">
   <img src="https://github.com/user-attachments/assets/679fd0bb-843a-4b5c-a130-38fd4bf4c2ef" width="580" alt="Tord Larsson"/>
+  I like creepy, bloody stuff
 </p>
     </td>
     <td width="40%" valign="top">
