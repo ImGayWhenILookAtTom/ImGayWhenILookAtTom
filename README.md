@@ -57,5 +57,5 @@
 
 <img width="1045" height="330" alt="image" src="https://github.com/user-attachments/assets/a15bd46a-d172-4688-9ea3-3e6c14023ceb" />
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/695b1cf4-5a05-4a44-ac77-1c8c1ca438d6" />
+
 
