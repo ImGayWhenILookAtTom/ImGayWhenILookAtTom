@@ -14,8 +14,11 @@
     <td width="60%" valign="top">
 <p align="center">
   <img src="https://github.com/user-attachments/assets/679fd0bb-843a-4b5c-a130-38fd4bf4c2ef" width="580" alt="Tord Larsson"/>
-I’m comfortable getting to know new people, and I tend to swear more than I probably should in real life. Online, though, not really.  <
- I bite harder than I bark, and I don’t apologize for either. <br>
+  <
+fit basic DNI criteria (racist, sexist, homophobic, transphobic, etc.)
+start unnecessary drama or bring discourse into my space
+disrespect my friends, mutuals, or boundaries
+are here only to argue, troll, or spread negativity
 </p>
     </td>
     <td width="40%" valign="top">
