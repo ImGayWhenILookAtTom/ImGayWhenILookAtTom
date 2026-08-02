@@ -15,10 +15,10 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/679fd0bb-843a-4b5c-a130-38fd4bf4c2ef" width="580" alt="Tord Larsson"/>
   <
-fit basic DNI criteria (racist, sexist, homophobic, transphobic, etc.) <br
+fit basic DNI criteria (racist, sexist, homophobic, transphobic, etc.) <br>
 start unnecessary drama or bring discourse into my space
-disrespect my friends, mutuals, or boundaries <br
-are here only to argue, troll, or spread negativity <br
+disrespect my friends, mutuals, or boundaries <br>
+are here only to argue, troll, or spread negativity <br>
     </td>
     <td width="40%" valign="top">
       <h2>── .✦ About me</h2>
