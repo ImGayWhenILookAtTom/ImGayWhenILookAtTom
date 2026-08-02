@@ -37,7 +37,7 @@ Et skjevt smil, en sigarett på leppene og en brennende lidenskap for tunge våp
 </p>
 
 <p align="center">
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/b96d366a-9730-4c07-aae6-0ae5997e66ba" />
+
 
 
 </p>
