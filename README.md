@@ -14,7 +14,7 @@
     <td width="60%" valign="top">
 <p align="center">
   <img src="https://github.com/user-attachments/assets/679fd0bb-843a-4b5c-a130-38fd4bf4c2ef" width="580" alt="Tord Larsson"/>
-  I like creepy, bloody stuff <
+I’m comfortable getting to know new people, and I tend to swear more than I probably should in real life. Online, though, not really.  <
  I bite harder than I bark, and I don’t apologize for either. <br>
 </p>
     </td>
@@ -42,9 +42,7 @@ Norwegian, ENTP, and a Scorpio, which probably explains more than I’m willing 
       <h2>── .✦ Introduction</h2>
       <p>
         
-Either way, welcome. I draw things, animate things, break things, and occasionally finish the things I start. I spend way too much time making everything look darker than it needs to be. Red lighting fixes most problems. The other problems can usually be ignored. <br>
- I have a habit of teasing people before I remember that some of them have feelings. That sounds like a personal issue, though. If I make fun of you, congratulations, you’ve been acknowledged. <br>
-Tom gets the worst of it because it’s incredibly easy, and watching him get annoyed is one of the few free sources of entertainment left in the world. If he’s reading this, no you’re not getting an apology. I’m competitive in the dumbest ways possible. Lose a game? Rematch. Lose again? The game is obviously broken. Win once? I’ll bring it up for the next six months. That seems fair. <br>
+
       </p>
     </td>
   </tr>
