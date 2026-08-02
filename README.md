@@ -1,3 +1,6 @@
+<table align="center" width="100%">
+  <tr>
+    <td width="60%" valign="top"
 <img width="1047" height="324" alt="image" src="https://github.com/user-attachments/assets/a72809f6-d8aa-4a03-be85-cc322a8ee0db" />
 
 
