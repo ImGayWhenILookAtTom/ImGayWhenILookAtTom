@@ -18,13 +18,7 @@
 
 <p align="center"><b>Please do not interact if you:</b></p>
 
-_fit basic DNI criteria (racist, sexist, homophobic, transphobic, etc.)_
-
-_start unnecessary drama or bring discourse into my space_
-
-_disrespect my friends, mutuals, or boundaries_
-
-_are here only to argue, troll, or spread negativity_
+<img width="1066" height="724" alt="image" src="https://github.com/user-attachments/assets/f8de372c-8cb3-4818-bb78-4bf436932e10" />
 
 </td>
 
