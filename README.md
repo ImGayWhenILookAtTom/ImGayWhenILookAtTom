@@ -12,33 +12,43 @@
 <table align="center" width="100%">
   <tr>
     <td width="60%" valign="top">
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/679fd0bb-843a-4b5c-a130-38fd4bf4c2ef" width="580" alt="Tord Larsson"/>
-  <p align="center"><b>Please do not interact if you:</b></p>
+</p>
+
+<p align="center"><b>Please do not interact if you:</b></p>
+
 _fit basic DNI criteria (racist, sexist, homophobic, transphobic, etc.)
 
 _start unnecessary drama or bring discourse into my space
 
-_disrespect my friends, mutuals, or boundaries 
+_disrespect my friends, mutuals, or boundaries
 
 _are here only to argue, troll, or spread negativity
-    </td>
-    <td width="40%" valign="top">
-      <h2>── .✦ ℑ𝔫𝔱𝔯𝔬𝔡𝔲𝔠𝔱𝔦𝔬𝔫 </h2>
-      <p>
-"Et skjevt smil, en sigarett på leppene og en brennende lidenskap for tunge våpen — det er alt du trenger å vite før du trer inn i Tords verden. Etter å ha vært borte i en tid preget av gåter, vender han tilbake, ikke bare for å si hei, men for å endre hele spillet. Er han en pålitelig gammel venn... eller en trussel ved navn Red Leader?"
-  </tr>
 
+    </td>
+
+    <td width="40%" valign="top">
+      <h2>── .✦ ℑ𝔫𝔱𝔯𝔬𝔡𝔲𝔠𝔱𝔦𝔬𝔫</h2>
+      <p>
+        "Et skjevt smil, en sigarett på leppene og en brennende lidenskap for tunge våpen — det er alt du trenger å vite før du trer inn i Tords verden. Etter å ha vært borte i en tid preget av gåter, vender han tilbake, ikke bare for å si hei, men for å endre hele spillet. Er han en pålitelig gammel venn... eller en trussel ved navn Red Leader?"
+      </p>
+
+      <p align="center">
+        <img src="YOUR_IMAGE_HERE" width="95%" alt="Tord image"/>
+      </p>
+    </td>
+  </tr>
 
   <tr>
     <td valign="top">
-      <h3> This is my favorite song </h3>
-<img src="https://github.com/user-attachments/assets/6f25995c-831e-4275-9700-1bb6c9f835e9" width="700"/>
+      <h3>This is my favorite song</h3>
+      <img src="https://github.com/user-attachments/assets/6f25995c-831e-4275-9700-1bb6c9f835e9" width="700"/>
+    </td>
 
-
-  </td>
     <td valign="top">
-     <img src="https://github.com/user-attachments/assets/578c5055-2003-42aa-9af8-2e1b7c9566eb" width="100%"/>
+      <img src="https://github.com/user-attachments/assets/578c5055-2003-42aa-9af8-2e1b7c9566eb" width="100%"/>
     </td>
   </tr>
 
@@ -46,18 +56,16 @@ _are here only to argue, troll, or spread negativity
     <td colspan="2">
       <h2>── .✦ About me</h2>
       <p>
-    Norwegian, ENTP, and a Scorpio, which probably explains more than I’m willing to admit. I go by he/him and I’m Pansexual. I’m usually sarcastic before I’m polite, competitive for absolutely no reason, and surprisingly committed to bad decisions. I disappear without warning, reply whenever I remember, and somehow still expect people to keep up. If I’m making fun of you, don’t panic — that’s usually a better sign than complete silence.
+        Norwegian, ENTP, and a Scorpio, which probably explains more than I’m willing to admit. I go by he/him and I’m Pansexual. I’m usually sarcastic before I’m polite, competitive for absolutely no reason, and surprisingly committed to bad decisions. I disappear without warning, reply whenever I remember, and somehow still expect people to keep up. If I’m making fun of you, don’t panic — that’s usually a better sign than complete silence.
+      </p>
+    </td>
   </tr>
 </table>
 
 <p align="center">
   <a href="https://loveyouloveyourblood.atabook.org/">
-   <img width="342" height="126" alt="image" src="https://github.com/user-attachments/assets/7b52423c-ceee-4a20-9f15-b81c277f4b95" />
+    <img width="342" height="126" alt="image" src="https://github.com/user-attachments/assets/7b52423c-ceee-4a20-9f15-b81c277f4b95" />
   </a>
 </p>
 
 <img width="1045" height="330" alt="image" src="https://github.com/user-attachments/assets/a15bd46a-d172-4688-9ea3-3e6c14023ceb" />
-
-
-
-
