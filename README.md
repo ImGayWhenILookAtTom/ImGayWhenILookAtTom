@@ -37,7 +37,7 @@ Et skjevt smil, en sigarett på leppene og en brennende lidenskap for tunge våp
 </p>
 
 <p align="center">
-  <img src="YOUR_IMAGE_HERE" width="95%" alt="Tord image"/>
+<img src="https://github.com/user-attachments/assets/5f9ff488-b789-4ba9-98c2-8b51732af76a" width="95%" alt="Tord image"/>
 </p>
 
 </td>
