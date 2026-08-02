@@ -24,9 +24,9 @@ _disrespect my friends, mutuals, or boundaries
 _are here only to argue, troll, or spread negativity
     </td>
     <td width="40%" valign="top">
-      <h2>── .✦ About me</h2>
+      <h2>── .✦ </h2>
       <p>
-Norwegian, ENTP, and a Scorpio, which probably explains more than I’m willing to admit. I go by he/him and I’m Pansexual. I’m usually sarcastic before I’m polite, competitive for absolutely no reason, and surprisingly committed to bad decisions. I disappear without warning, reply whenever I remember, and somehow still expect people to keep up. If I’m making fun of you, don’t panic — that’s usually a better sign than complete silence.
+"Et skjevt smil, en sigarett på leppene og en brennende lidenskap for tunge våpen — det er alt du trenger å vite før du trer inn i Tords verden. Etter å ha vært borte i en tid preget av gåter, vender han tilbake, ikke bare for å si hei, men for å endre hele spillet. Er han en pålitelig gammel venn... eller en trussel ved navn Red Leader?"
   </tr>
 
 
@@ -44,9 +44,9 @@ Norwegian, ENTP, and a Scorpio, which probably explains more than I’m willing 
 
   <tr>
     <td colspan="2">
-      <h2>── .✦ Introduction</h2>
+      <h2>── .✦ About me</h2>
       <p>
-     WIPPPPPPPPPPPPPPPPPPPPPPPPP
+    Norwegian, ENTP, and a Scorpio, which probably explains more than I’m willing to admit. I go by he/him and I’m Pansexual. I’m usually sarcastic before I’m polite, competitive for absolutely no reason, and surprisingly committed to bad decisions. I disappear without warning, reply whenever I remember, and somehow still expect people to keep up. If I’m making fun of you, don’t panic — that’s usually a better sign than complete silence.
   </tr>
 </table>
 
