@@ -46,10 +46,7 @@ Norwegian, ENTP, and a Scorpio, which probably explains more than I’m willing 
     <td colspan="2">
       <h2>── .✦ Introduction</h2>
       <p>
-        
-
-      </p>
-    </td>
+     WIPPPPPPPPPPPPPPPPPPPPPPPPP
   </tr>
 </table>
 
