@@ -24,7 +24,7 @@ _disrespect my friends, mutuals, or boundaries
 _are here only to argue, troll, or spread negativity
     </td>
     <td width="40%" valign="top">
-      <h2>── .✦ </h2>
+      <h2>── .✦ ℭ𝔥𝔞𝔯𝔞𝔠𝔱𝔢𝔯 ℑ𝔫𝔱𝔯𝔬𝔡𝔲𝔠𝔱𝔦𝔬𝔫 </h2>
       <p>
 "Et skjevt smil, en sigarett på leppene og en brennende lidenskap for tunge våpen — det er alt du trenger å vite før du trer inn i Tords verden. Etter å ha vært borte i en tid preget av gåter, vender han tilbake, ikke bare for å si hei, men for å endre hele spillet. Er han en pålitelig gammel venn... eller en trussel ved navn Red Leader?"
   </tr>
