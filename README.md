@@ -7,9 +7,6 @@
 <img width="150" height="20" alt="blinkie3" src="https://github.com/user-attachments/assets/b803c6dc-f9f9-4d01-b21d-3c2c8441a4e7" />
 
 <img width="1050" height="271" alt="welcome" src="https://github.com/user-attachments/assets/c1b006df-9e18-4243-b998-808749bca9be" />
-<img width="532" height="24" alt="6" src="https://github.com/user-attachments/assets/cf588141-c16d-42d3-bcf1-9efce94cb587" />
-
-
 
 <table align="center" width="100%">
   <tr>
@@ -20,7 +17,6 @@
 </p>
 
 <p align="center"><b>Please do not interact if you:</b></p>
-
 _fit basic DNI criteria (racist, sexist, homophobic, transphobic, etc.)_
 
 _start unnecessary drama or bring discourse into my space_
@@ -46,28 +42,15 @@ Et skjevt smil, en sigarett på leppene og en brennende lidenskap for tunge våp
   <tr>
     <td valign="top">
 
-<h3>
-<img
-  width="2048"
-  height="225"
-  alt="image"
-  src="https://github.com/user-attachments/assets/c820a9ee-f4f4-4845-af2e-edbe3a4b4af7"
-/>
-</h3>
+<h3>This is my favorite song</h3>
 
-<img
-  src="https://github.com/user-attachments/assets/6f25995c-831e-4275-9700-1bb6c9f835e9"
-  width="700"
-/>
+<img src="https://github.com/user-attachments/assets/6f25995c-831e-4275-9700-1bb6c9f835e9" width="700"/>
 
 </td>
 
 <td valign="top">
 
-<img
-  src="https://github.com/user-attachments/assets/578c5055-2003-42aa-9af8-2e1b7c9566eb"
-  width="100%"
-/>
+<img src="https://github.com/user-attachments/assets/578c5055-2003-42aa-9af8-2e1b7c9566eb" width="100%"/>
 
 </td>
   </tr>
@@ -85,47 +68,12 @@ Norwegian, ENTP, and a Scorpio, which probably explains more than I’m willing 
   </tr>
 </table>
 
-
-<!-- GUESTBOOK -->
-
 <p align="center">
-
-  <img
-    src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/2764.svg"
-    width="55"
-    alt="heart"
-  />
-
-  <img
-    src="https://github.com/user-attachments/assets/7b52423c-ceee-4a20-9f15-b81c277f4b95"
-    width="342"
-    alt="Guestbook"
-  />
-
-  <img
-    src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/2764.svg"
-    width="55"
-    alt="heart"
-  />
-
+  <a href="https://loveyouloveyourblood.atabook.org/">
+    <img width="342" height="126" alt="atabook" src="https://github.com/user-attachments/assets/7b52423c-ceee-4a20-9f15-b81c277f4b95" />
+  </a>
 </p>
 
+<img width="1045" height="330" alt="image" src="https://github.com/user-attachments/assets/a15bd46a-d172-4688-9ea3-3e6c14023ceb"/>
 
-<img
-  width="800"
-  height="30"
-  alt="image"
-  src="https://github.com/user-attachments/assets/626bc379-687a-4a05-ad82-7e9516dcf5a2"
-/>
-
-<img
-  width="1045"
-  height="330"
-  alt="image"
-  src="https://github.com/user-attachments/assets/a15bd46a-d172-4688-9ea3-3e6c14023ceb"
-/>
-
-<img
-  src="https://github.com/user-attachments/assets/8367f354-2136-4802-9d79-7f07ce8c9619"
-  width="100%"
-/>
+<img src="https://github.com/user-attachments/assets/8367f354-2136-4802-9d79-7f07ce8c9619" width="100%">
