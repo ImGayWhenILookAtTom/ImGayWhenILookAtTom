@@ -72,7 +72,6 @@ Norwegian, ENTP, and a Scorpio, which probably explains more than I’m willing 
 <p align="center">
   <a href="https://loveyouloveyourblood.atabook.org/">  
   <img width="342" height="126" alt="atabook" src="https://github.com/user-attachments/assets/7b52423c-ceee-4a20-9f15-b81c277f4b95" />
-<img width="532" height="24" alt="6" src="https://github.com/user-attachments/assets/308dffaf-c59c-4bb0-ac63-6299383d26bb" />
   </a>
 </p>
 
