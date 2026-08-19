@@ -1,3 +1,4 @@
+<img width="15" height="15" alt="2" src="https://github.com/user-attachments/assets/afe3a7cc-b8a7-43c8-97ff-580d4fb0a902" />
 <img width="1047" height="324" alt="image" src="https://github.com/user-attachments/assets/a72809f6-d8aa-4a03-be85-cc322a8ee0db" />
 
 <img width="300" height="44" alt="line" src="https://github.com/user-attachments/assets/cffe5691-b504-43e6-9fea-75c4c21b18f4" />
@@ -80,4 +81,4 @@ Norwegian, ENTP, and a Scorpio, which probably explains more than I’m willing 
 <img src="https://github.com/user-attachments/assets/8367f354-2136-4802-9d79-7f07ce8c9619" width="100%">
 <img width="532" height="24" alt="6" src="https://github.com/user-attachments/assets/308dffaf-c59c-4bb0-ac63-6299383d26bb" />
 <img width="480" height="69" alt="image" src="https://github.com/user-attachments/assets/0de32efb-9e9d-47c3-be6e-1ac21ec359a0" />
-Tom's web
+Tom's web <img width="20" height="20" alt="evilskull" src="https://github.com/user-attachments/assets/12a2aa9e-f7a9-4af5-a7a5-d751d1b02963" />
