@@ -1,3 +1,4 @@
+
 <img width="1047" height="324" alt="image" src="https://github.com/user-attachments/assets/a72809f6-d8aa-4a03-be85-cc322a8ee0db" />
 
 <img width="300" height="44" alt="line" src="https://github.com/user-attachments/assets/cffe5691-b504-43e6-9fea-75c4c21b18f4" />
@@ -20,6 +21,7 @@
 </p>
 
 <p align="center"><b>Please do not interact if you:</b></p>
+
 _fit basic DNI criteria (racist, sexist, homophobic, transphobic, etc.)_
 
 _start unnecessary drama or bring discourse into my space_
@@ -45,7 +47,9 @@ Et skjevt smil, en sigarett på leppene og en brennende lidenskap for tunge våp
   <tr>
     <td valign="top">
 
-<h3><img width="2048" height="225" alt="image" src="https://github.com/user-attachments/assets/c820a9ee-f4f4-4845-af2e-edbe3a4b4af7" /> </h3>
+<h3>
+  <img width="2048" height="225" alt="image" src="https://github.com/user-attachments/assets/c820a9ee-f4f4-4845-af2e-edbe3a4b4af7" />
+</h3>
 
 <img src="https://github.com/user-attachments/assets/6f25995c-831e-4275-9700-1bb6c9f835e9" width="700"/>
 
@@ -71,15 +75,47 @@ Norwegian, ENTP, and a Scorpio, which probably explains more than I’m willing 
   </tr>
 </table>
 
+
+<!-- GUESTBOOK -->
+
 <p align="center">
-  <a href="https://loveyouloveyourblood.atabook.org/">
-   <img width="800" height="30" alt="image" src="https://github.com/user-attachments/assets/b2701e8b-c83a-4d3e-b4d7-156d69ee0ea5" />
 
-  <img width="342" height="126" alt="atabook" src="https://github.com/user-attachments/assets/7b52423c-ceee-4a20-9f15-b81c277f4b95" />
-  </a>
+  <img
+    src="HEART_LEFT"
+    width="80"
+    alt="heart left"
+  />
+
+  <img
+    src="https://github.com/user-attachments/assets/7b52423c-ceee-4a20-9f15-b81c277f4b95"
+    width="342"
+    alt="Guestbook"
+  />
+
+  <img
+    src="HEART_RIGHT"
+    width="80"
+    alt="heart right"
+  />
+
 </p>
-<img width="800" height="30" alt="image" src="https://github.com/user-attachments/assets/626bc379-687a-4a05-ad82-7e9516dcf5a2" />
 
-<img width="1045" height="330" alt="image" src="https://github.com/user-attachments/assets/a15bd46a-d172-4688-9ea3-3e6c14023ceb"/>
 
-<img src="https://github.com/user-attachments/assets/8367f354-2136-4802-9d79-7f07ce8c9619" width="100%">
+<img
+  width="800"
+  height="30"
+  alt="image"
+  src="https://github.com/user-attachments/assets/626bc379-687a-4a05-ad82-7e9516dcf5a2"
+/>
+
+<img
+  width="1045"
+  height="330"
+  alt="image"
+  src="https://github.com/user-attachments/assets/a15bd46a-d172-4688-9ea3-3e6c14023ceb"
+/>
+
+<img
+  src="https://github.com/user-attachments/assets/8367f354-2136-4802-9d79-7f07ce8c9619"
+  width="100%"
+/>
