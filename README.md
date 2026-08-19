@@ -49,9 +49,9 @@ Et skjevt smil, en sigarett på leppene og en brennende lidenskap for tunge våp
 </td>
 
 <td valign="top">
-<img width="532" height="24" alt="6" src="https://github.com/user-attachments/assets/308dffaf-c59c-4bb0-ac63-6299383d26bb" />
+
 <img src="https://github.com/user-attachments/assets/578c5055-2003-42aa-9af8-2e1b7c9566eb" width="100%"/>
-<img width="532" height="24" alt="6" src="https://github.com/user-attachments/assets/308dffaf-c59c-4bb0-ac63-6299383d26bb" />
+
 
 </td>
   </tr>
@@ -71,7 +71,10 @@ Norwegian, ENTP, and a Scorpio, which probably explains more than I’m willing 
 
 <p align="center">
   <a href="https://loveyouloveyourblood.atabook.org/">
-    <img width="342" height="126" alt="atabook" src="https://github.com/user-attachments/assets/7b52423c-ceee-4a20-9f15-b81c277f4b95" />
+   <img width="532" height="24" alt="6" src="https://github.com/user-attachments/assets/308dffaf-c59c-4bb0-ac63-6299383d26bb" />
+  
+  <img width="342" height="126" alt="atabook" src="https://github.com/user-attachments/assets/7b52423c-ceee-4a20-9f15-b81c277f4b95" />
+<img width="532" height="24" alt="6" src="https://github.com/user-attachments/assets/308dffaf-c59c-4bb0-ac63-6299383d26bb" />
   </a>
 </p>
 
