@@ -76,6 +76,7 @@ Norwegian, ENTP, and a Scorpio, which probably explains more than I’m willing 
     <img width="342" height="126" alt="atabook" src="https://github.com/user-attachments/assets/7b52423c-ceee-4a20-9f15-b81c277f4b95" />
   </a>
 </p>
+<img width="800" height="30" alt="image" src="https://github.com/user-attachments/assets/626bc379-687a-4a05-ad82-7e9516dcf5a2" />
 
 <img width="1045" height="330" alt="image" src="https://github.com/user-attachments/assets/a15bd46a-d172-4688-9ea3-3e6c14023ceb"/>
 
