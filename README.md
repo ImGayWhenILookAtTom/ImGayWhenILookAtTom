@@ -7,6 +7,7 @@
 <img width="150" height="20" alt="blinkie3" src="https://github.com/user-attachments/assets/b803c6dc-f9f9-4d01-b21d-3c2c8441a4e7" />
 
 <img width="1050" height="271" alt="welcome" src="https://github.com/user-attachments/assets/c1b006df-9e18-4243-b998-808749bca9be" />
+<img width="532" height="24" alt="image" src="https://github.com/user-attachments/assets/76fb4e0b-7eaf-4d83-9449-bd6d6c8503ff" />
 
 <table align="center" width="100%">
   <tr>
