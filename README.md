@@ -93,9 +93,9 @@ Norwegian, ENTP, and a Scorpio, which probably explains more than I’m willing 
   />
 
   <img
-    src="HEART_RIGHT"
+    src="https://github.com/user-attachments/assets/4c0378ea-e97e-4018-97fe-7cd1f0a586af"
     width="80"
-    alt="heart right"
+    alt="https://github.com/user-attachments/assets/4c0378ea-e97e-4018-97fe-7cd1f0a586af"
   />
 
 </p>
