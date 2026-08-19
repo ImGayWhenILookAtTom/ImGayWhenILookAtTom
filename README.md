@@ -31,7 +31,7 @@ _are here only to argue, troll, or spread negativity_
 
 <td width="40%" valign="top">
 
-<h2>── .◈ 『・ℑ𝔫𝔱𝔯𝔬𝔡𝔲𝔠𝔱𝔦𝔬𝔫・』✦ </h2>
+<h2>── .◈ 『・ℑ𝔫𝔱𝔯𝔬𝔡𝔲𝔠𝔱𝔦𝔬𝔫・』✦ <img width="15" height="15" alt="2" src="https://github.com/user-attachments/assets/afe3a7cc-b8a7-43c8-97ff-580d4fb0a902" /> </h2>
 
 <p>
 Et skjevt smil, en sigarett på leppene og en brennende lidenskap for tunge våpen — det er alt du trenger å vite før du trer inn i Tords verden. Etter en lang forsvinning preget av mysterier og stillhet vender han tilbake, ikke bare for å si hei, men for å endre hele spillet. Bak den rolige fasaden skjuler det seg en mann med egne planer, urokkelig vilje og et navn som fortsatt vekker uro. Han er intelligent, uforutsigbar og alltid flere trekk foran motstanderne sine. Er han en pålitelig gammel venn, en leder med en visjon, eller en trussel kjent som Red Leader? Svaret avhenger av hvem som spør.
