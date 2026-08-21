@@ -70,7 +70,7 @@ Norwegian, ENTP, and a Scorpio, which probably explains more than I’m willing 
   </tr>
 </table>
 
-<img width="386" height="39" alt="14" src="https://github.com/user-attachments/assets/9cd4f3b3-9bea-4e33-8197-6da3b616cf0b" /> <img width="350" height="20" alt="image" src="https://github.com/user-attachments/assets/16d94aab-e8e1-4641-a165-e816f4924ae3" />
+<img width="386" height="39" alt="14" src="https://github.com/user-attachments/assets/9cd4f3b3-9bea-4e33-8197-6da3b616cf0b" /> <img width="386" height="39" alt="14" src="https://github.com/user-attachments/assets/9cd4f3b3-9bea-4e33-8197-6da3b616cf0b" />
 
 
 
