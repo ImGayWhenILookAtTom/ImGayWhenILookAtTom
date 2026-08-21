@@ -80,7 +80,8 @@ Norwegian, ENTP, and a Scorpio, which probably explains more than I’m willing 
   </a>
 </p>
 
-<img width="319" height="19" alt="image" src="https://github.com/user-attachments/assets/e4e843a3-74e3-4c57-9db1-8c1aa8b01269" /> <img width="350" height="20" alt="image" src="https://github.com/user-attachments/assets/f0ef8641-94ef-4ccc-a502-cfe2a910643d" />
+<img width="278" height="278" alt="20" src="https://github.com/user-attachments/assets/4ca8a593-27f4-4c5b-8c48-3946c23e1cff" />
+
 
 
 
