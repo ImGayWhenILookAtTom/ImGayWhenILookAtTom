@@ -25,7 +25,8 @@ Et skjevt smil, en sigarett på leppene og en brennende lidenskap for tunge våp
   </tr>
   <tr>
     <td valign="top">
-<h3>This is my favorite song</h3>
+<h3>This is my favorite song <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/a905aefc-acdd-472a-9d06-052a07f2bacc" />
+</h3>
 <img src="https://github.com/user-attachments/assets/6f25995c-831e-4275-9700-1bb6c9f835e9" width="700"/>
 </td>
 <td valign="top">
