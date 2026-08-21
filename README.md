@@ -1,4 +1,5 @@
 
+
 <img width="1047" height="324" alt="image" src="https://github.com/user-attachments/assets/a72809f6-d8aa-4a03-be85-cc322a8ee0db" />
 
 <img width="300" height="44" alt="line" src="https://github.com/user-attachments/assets/cffe5691-b504-43e6-9fea-75c4c21b18f4" />
@@ -80,7 +81,7 @@ Norwegian, ENTP, and a Scorpio, which probably explains more than I’m willing 
   </a>
 </p>
 
-<img width="175" height="175" alt="20" src="https://github.com/user-attachments/assets/4ca8a593-27f4-4c5b-8c48-3946c23e1cff" />
+<img width="175" height="175" alt="20" src="https://github.com/user-attachments/assets/4ca8a593-27f4-4c5b-8c48-3946c23e1cff" /> <img width="350" height="20" alt="13" src="https://github.com/user-attachments/assets/28df25bf-4613-4e00-8379-934500276a4c" /> <img width="175" height="175" alt="20" src="https://github.com/user-attachments/assets/4ca8a593-27f4-4c5b-8c48-3946c23e1cff" />
 
 
 
